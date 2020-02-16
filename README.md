@@ -13,4 +13,4 @@ Funcionalidades da primeira versão.
 - Login para usuarios autentificados
 - Validação de campos em backend
 
-API feita no bootcamp de Rocketseat
+bootcamp de Rocketseat
